@@ -1,13 +1,11 @@
 # Created by Jekyll Writer
-title: Your awesome title
-author: Jekyll Writer
-description: >
-  This theme is disigned based on Mailbox Blog, and licensed under MIT. This
-  theme is also default theme for new site created by Jekyll Writer.
+title: 那年十七
+author: fubail@qq.com
+description: .
 permalink: '/:year/:month/:day/:title/'
 paginate: 6
 paginate_path: '/page/:num/'
-github_username: jekyllwriter
+github_username: 17-years-old
 gems:
   - jekyll-paginate
 markdown: kramdown
