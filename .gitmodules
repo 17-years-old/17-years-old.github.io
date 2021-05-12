@@ -1,0 +1,9 @@
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
+[submodule "themes/purehugo"]
+	path = themes/purehugo
+	url = https://github.com/dplesca/purehugo.git
+[submodule "themes/diary"]
+	path = themes/diary
+	url = https://github.com/AmazingRise/hugo-theme-diary.git
