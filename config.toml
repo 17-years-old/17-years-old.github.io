@@ -19,7 +19,7 @@ theme = "diary"
     tabWidth = 4
 
 [params]
-subtitle = "个人网站"
+subtitle = "中年油腻程序员"
 enableGitalk = true
 disableDarkMode=true
 
@@ -48,7 +48,7 @@ name = "标签"
 weight = 3
 [[menu.main]]
 url = "/posts"
-name = "归档"
+name = "文章"
 weight = 1
 [[menu.main]]
 url = "/about"
