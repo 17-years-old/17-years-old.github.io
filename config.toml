@@ -30,10 +30,10 @@ title = "My Blog" # will set 'og:site_name'
 description = "My HomePage Description"  # will set 'og:description'
 
 [params.gitalk]
-  owner = "user"
-  repo = "repo name"
-  client_id = "your client id"
-  client_secret = "your client secret"
+  owner = "17-years-old"
+  repo = "17-years-old.github.io"
+  client_id = "ea8f11aa70f33e416268"
+  client_secret = "16f06acefc27fb648442b92cc257b784983339b6"
 [taxonomies]
    tag = "tags"
    category = "categories"
@@ -51,6 +51,6 @@ url = "/posts"
 name = "归档"
 weight = 1
 [[menu.main]]
-url = "/index.xml"
+url = "/about"
 name = "关于"
 weight = 4
